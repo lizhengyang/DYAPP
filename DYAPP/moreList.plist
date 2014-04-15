@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>服务电话</key>
+	<array>
+		<string>4008-770-888</string>
+		<string>4000-759-990</string>
+	</array>
+	<key>更多</key>
+	<array>
+		<string>检测网络</string>
+		<string>关于大银</string>
+		<string>版本号：</string>
+	</array>
+</dict>
+</plist>
